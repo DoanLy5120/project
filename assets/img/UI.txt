@@ -1,0 +1,6 @@
+1. Dùng HTML CSS Tạo landing page
+2. Học Javascript Codex https://www.youtube.com/watch?v=Oo9MAd40lbI&list=PLkY6Xj8Sg8-uPZnTdScfuH0xD-O6Kb-V-
+ -> Làm TODO list(chức năng thêm, xóa, sửa)
+3. Học Javascript (nâng cao) + reactjs (react + native)
+ -> Làm trang quản lí bài thuyết trình
+4.
